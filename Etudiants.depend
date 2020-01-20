@@ -1,0 +1,534 @@
+# depslib dependency file v1.0
+1578934697 source:d:\cours l3gl\c++\etudiants\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+	"ETUDIANT.h"
+	"LOGER.h"
+	"BOURSIER.h"
+	"services.h"
+	"views.h"
+
+1578934966 source:d:\cours l3gl\c++\etudiants\src\etudiant.cpp
+	<iostream>
+	"ETUDIANT.h"
+
+1578934408 d:\cours l3gl\c++\etudiants\include\etudiant.h
+	<string>
+
+1578939244 source:d:\cours l3gl\c++\etudiants\src\boursier.cpp
+	"BOURSIER.h"
+	"ETUDIANT.h"
+	<iostream>
+
+1578937575 d:\cours l3gl\c++\etudiants\include\boursier.h
+	"ETUDIANT.h"
+
+1578939235 source:d:\cours l3gl\c++\etudiants\src\loger.cpp
+	"LOGER.h"
+	"ETUDIANT.h"
+	"CHAMBRE.h"
+	<iostream>
+
+1578938368 d:\cours l3gl\c++\etudiants\include\loger.h
+	"ETUDIANT.h"
+	"CHAMBRE.h"
+	<string>
+
+1575922599 d:\cours l3gl\c++\etudiants\prototypes.h
+	<cstdlib>
+	<vector>
+	<cstdlib>
+	"ETUDIANT.h"
+	"LOGER.h"
+	"BOURSIER.h"
+
+1578942563 d:\cours l3gl\c++\etudiants\services.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<sstream>
+	"MysqlDB.h"
+	"ETUDIANT.h"
+	"LOGER.h"
+	"BOURSIER.h"
+	"BATIMENT.h"
+	"CHAMBRE.h"
+
+1578858280 d:\cours l3gl\c++\etudiants\views.h
+	<iostream>
+	<cstdlib>
+
+1578932558 d:\cours l3gl\c++\etudiants\include\chambre.h
+	"BATIMENT.h"
+
+1578875120 d:\cours l3gl\c++\etudiants\include\batiment.h
+	<iostream>
+
+1578317325 d:\cours l3gl\c++\etudiants\chambre.h
+
+1578875750 source:d:\cours l3gl\c++\etudiants\src\batiment.cpp
+	"BATIMENT.h"
+	"MysqlDB.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<sstream>
+
+1578877693 source:d:\cours l3gl\c++\etudiants\src\chambre.cpp
+	"CHAMBRE.h"
+	"BATIMENT.h"
+	"MysqlDB.h"
+	<iostream>
+
+1578874723 d:\cours l3gl\c++\etudiants\include\mysqldb.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+
+1578941235 source:d:\cours l3gl\c++\etudiants\src\mysqldb.cpp
+	"MysqlDB.h"
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+
+1578944264 source:c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\src\batiment.cpp
+	"BATIMENT.h"
+	"MysqlDB.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<sstream>
+
+1578875122 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\include\batiment.h
+	<iostream>
+
+1578874724 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\include\mysqldb.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+
+1578944307 source:c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\src\boursier.cpp
+	"BOURSIER.h"
+	"ETUDIANT.h"
+	<iostream>
+
+1578937576 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\include\boursier.h
+	"ETUDIANT.h"
+
+1578934410 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\include\etudiant.h
+	<string>
+
+1578944557 source:c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\src\chambre.cpp
+	"CHAMBRE.h"
+	"BATIMENT.h"
+	"MysqlDB.h"
+	<iostream>
+
+1578932560 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\include\chambre.h
+	"BATIMENT.h"
+
+1578944581 source:c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\src\etudiant.cpp
+	<iostream>
+	"ETUDIANT.h"
+
+1578939236 source:c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\src\loger.cpp
+	"LOGER.h"
+	"ETUDIANT.h"
+	"CHAMBRE.h"
+	<iostream>
+
+1578938370 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\include\loger.h
+	"ETUDIANT.h"
+	"CHAMBRE.h"
+	<string>
+
+1578941236 source:c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\src\mysqldb.cpp
+	"MysqlDB.h"
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+
+1578944916 source:c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+	"ETUDIANT.h"
+	"LOGER.h"
+	"BOURSIER.h"
+	"services.h"
+	"views.h"
+
+1578944783 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\services.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<sstream>
+	"MysqlDB.h"
+	"ETUDIANT.h"
+	"LOGER.h"
+	"BOURSIER.h"
+	"BATIMENT.h"
+	"CHAMBRE.h"
+
+1578317326 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\chambre.h
+
+1578946313 c:\users\dioukou\desktop\l3 génie logiciel\c++\exercice\etudiants\views.h
+	<iostream>
+	<cstdlib>
+
+1579481403 source:c:\users\asus zen book\documents\etudiants\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+	"ETUDIANT.h"
+	"LOGER.h"
+	"BOURSIER.h"
+	"services.h"
+	"views.h"
+
+1578934410 c:\users\asus zen book\documents\etudiants\include\etudiant.h
+	<string>
+
+1578938370 c:\users\asus zen book\documents\etudiants\include\loger.h
+	"ETUDIANT.h"
+	"CHAMBRE.h"
+	<string>
+
+1578932560 c:\users\asus zen book\documents\etudiants\include\chambre.h
+	"BATIMENT.h"
+
+1578875122 c:\users\asus zen book\documents\etudiants\include\batiment.h
+	<iostream>
+
+1578937576 c:\users\asus zen book\documents\etudiants\include\boursier.h
+	"ETUDIANT.h"
+
+1579510551 c:\users\asus zen book\documents\etudiants\services.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<sstream>
+	"MysqlDB.h"
+	"ETUDIANT.h"
+	"LOGER.h"
+	"BOURSIER.h"
+	"BATIMENT.h"
+	"CHAMBRE.h"
+
+1578874724 c:\users\asus zen book\documents\etudiants\include\mysqldb.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+
+1578317326 c:\users\asus zen book\documents\etudiants\chambre.h
+
+1579510836 c:\users\asus zen book\documents\etudiants\views.h
+	<iostream>
+	<cstdlib>
+
+1579476268 source:c:\users\asus zen book\documents\etudiants\src\batiment.cpp
+	"BATIMENT.h"
+	"MysqlDB.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<sstream>
+
+1578944307 source:c:\users\asus zen book\documents\etudiants\src\boursier.cpp
+	"BOURSIER.h"
+	"ETUDIANT.h"
+	<iostream>
+
+1579476540 source:c:\users\asus zen book\documents\etudiants\src\chambre.cpp
+	"CHAMBRE.h"
+	"BATIMENT.h"
+	"MysqlDB.h"
+	<iostream>
+
+1579476392 source:c:\users\asus zen book\documents\etudiants\src\etudiant.cpp
+	<iostream>
+	"ETUDIANT.h"
+
+1579476456 source:c:\users\asus zen book\documents\etudiants\src\loger.cpp
+	"LOGER.h"
+	"ETUDIANT.h"
+	"CHAMBRE.h"
+	<iostream>
+
+1579509796 source:c:\users\asus zen book\documents\etudiants\src\mysqldb.cpp
+	"MysqlDB.h"
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<string>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1476096933 c:\program files (x86)\codeblocks\mingw\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1476096946 c:\program files (x86)\codeblocks\mingw\include\mysql_com.h
+
+1476096972 c:\program files (x86)\codeblocks\mingw\include\mysql_time.h
+
+1476096983 c:\program files (x86)\codeblocks\mingw\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files (x86)\codeblocks\mingw\include\typelib.h
+
+1476097168 c:\program files (x86)\codeblocks\mingw\include\my_list.h
+
+1476097177 c:\program files (x86)\codeblocks\mingw\include\my_alloc.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
